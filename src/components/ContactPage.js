@@ -5,11 +5,11 @@ import './ContactPage.css';
 
 const ContactPage = () => {
     const contacts = [
-        { name: "John Doe", department: "IT", email: "john.doe@example.com", phone: "+1 (123) 456-7890" },
-        { name: "Jane Smith", department: "SFC", email: "jane.smith@example.com", phone: "+1 (234) 567-8901" },
-        { name: "Alice Johnson", department: "LIB", email: "alice.johnson@example.com", phone: "+1 (345) 678-9012" },
-        { name: "Bob Brown", department: "ADM", email: "bob.brown@example.com", phone: "+1 (456) 789-0123" },
-        { name: "Charlie Lee", department: "ACC", email: "charlie.lee@example.com", phone: "+1 (567) 890-1234" },
+        { name: "John First", department: "IT", email: "john.first@example.com", phone: "00112233" },
+        { name: "John Second", department: "SFC", email: "john.second@example.com", phone: "44556677" },
+        { name: "John Third", department: "LIB", email: "john.third@example.com", phone: "88990011" },
+        { name: "John Forth", department: "ADM", email: "john.forth@example.com", phone: "22334455" },
+        { name: "John Fifth", department: "ACC", email: "john.fifth@example.com", phone: "66778899" },
     ];
 
     return (
